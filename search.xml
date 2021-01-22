@@ -4,11 +4,30 @@
   
     
     <entry>
-      <title>hi4</title>
-      <link href="2021/01/21/hi4/"/>
-      <url>2021/01/21/hi4/</url>
+      <title>dog</title>
+      <link href="2021/01/23/dog/"/>
+      <url>2021/01/23/dog/</url>
       
-        <content type="html"><![CDATA[<p>   我是一个小可爱</p>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>小泰迪汤圆是我的宠物，我的伙伴。</p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 小泰迪 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>me</title>
+      <link href="2021/01/21/me/"/>
+      <url>2021/01/21/me/</url>
+      
+        <content type="html"><![CDATA[<p>   我是一个小姐姐</p>]]></content>
       
       
       
@@ -23,9 +42,9 @@
     
     
     <entry>
-      <title>hi3</title>
-      <link href="2021/01/21/hi3/"/>
-      <url>2021/01/21/hi3/</url>
+      <title>sky</title>
+      <link href="2021/01/21/sky/"/>
+      <url>2021/01/21/sky/</url>
       
         <content type="html"><![CDATA[<p>   天空什么颜色呢</p>]]></content>
       
@@ -42,49 +61,11 @@
     
     
     <entry>
-      <title>hi2</title>
-      <link href="2021/01/21/hi2/"/>
-      <url>2021/01/21/hi2/</url>
-      
-        <content type="html"><![CDATA[<p>   海是什么颜色呢</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 关于海 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>hi</title>
-      <link href="2021/01/21/hi/"/>
-      <url>2021/01/21/hi/</url>
-      
-        <content type="html"><![CDATA[<p>  哈哈，我的博客文章空空的</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 空 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="2020/11/25/hello-world/"/>
       <url>2020/11/25/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>hello world</p>]]></content>
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
       <categories>
@@ -105,17 +86,23 @@
     
     
     <entry>
-      <title>海</title>
-      <link href="2020/11/20/hai/"/>
-      <url>2020/11/20/hai/</url>
+      <title>2007.2.15</title>
+      <link href="2007/02/15/2017/2007-2-15/"/>
+      <url>2007/02/15/2017/2007-2-15/</url>
       
-        <content type="html"><![CDATA[<p>我们看海去，蓝色的大海</p>]]></content>
+        <content type="html"><![CDATA[<h5 id="2007年2月15日-ensp-星期四-ensp-天气雨"><a href="#2007年2月15日-ensp-星期四-ensp-天气雨" class="headerlink" title="2007年2月15日  星期四  天气雨"></a>2007年2月15日  星期四  天气雨</h5><blockquote><p>  今天，我起床的时候，又把地发了点水。再扫地。扫完地，我就去了<del>拉屎</del>。<del>拉完屎</del>我就回家刷牙、洗脸。过了一会儿，有一个客人来了。妈妈就招待她们。等吃完饭，弟弟又叫我去玩，我们玩了很久，走到家里，弟弟又看有没有西游记的电视。我就在下面问弟弟表姐有没有回家。弟弟一说没有回来我就没有关门。回到家里爸爸说要带弟弟去医院里买药。爸爸、妈妈和我还有妹妹等拿到药弟弟又说要买烟花。爸爸妈妈说不要买，可是弟弟就是要买。爸爸妈妈就一开始买了一根烟花。可弟弟还要买，爸爸妈妈就给他买了<del>二</del>两根。回到家表姐就帮弟弟擦药。擦完药弟弟开出电视看了一会儿西游记的电视就来了。我们就把西游记的电视看完了。</p></blockquote>]]></content>
       
+      
+      <categories>
+          
+          <category> 日记 </category>
+          
+      </categories>
       
       
         <tags>
             
-            <tag> 关于海 </tag>
+            <tag> 日记 </tag>
             
         </tags>
       
@@ -125,35 +112,10 @@
     
     <entry>
       <title>2007.2.14</title>
-      <link href="2020/10/18/2017/2007-2-14/"/>
-      <url>2020/10/18/2017/2007-2-14/</url>
+      <link href="2007/02/14/2017/2007-2-14/"/>
+      <url>2007/02/14/2017/2007-2-14/</url>
       
-        <content type="html"><![CDATA[<h3 id="2007年2月14日-星期三-天气雨"><a href="#2007年2月14日-星期三-天气雨" class="headerlink" title="2007年2月14日 星期三 天气雨"></a>2007年2月14日 星期三 天气雨</h3><p> 今天，我起床的时候，先穿起了衣服。再把地洒了点水，再扫地。扫完地就吃饭。吃了饭，我就去了外面玩。玩着玩着，我看见了有人在那里打碑（牌）。他们打的很开心。中午我和爸爸、表弟、弟弟，去了老屋那里砍柴，我就在屋子里玩。我们玩得特别开心。等我回家的时候。还拿了一根长长的柴，到了家里。 我又去玩，这一回，我们就跟了几个人在玩木头、开花的和喵的，等我回家的时候就关门。可等回了家的时候，爸爸就问，我表姐去了哪里。我就不说不知道。说了不知道，我就去了找表姐。找到了表姐，就去回家。到了楼那里，我就关门，这一天我就是这样过的。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 日记 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 日记 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>第二篇</title>
-      <link href="2020/10/11/6/"/>
-      <url>2020/10/11/6/</url>
-      
-        <content type="html"><![CDATA[<h1 id="日记"><a href="#日记" class="headerlink" title="日记"></a>日记</h1><p>我的第一篇博客日记</p>]]></content>
+        <content type="html"><![CDATA[<h5 id="2007年2月14日-ensp-星期三-ensp-天气雨"><a href="#2007年2月14日-ensp-星期三-ensp-天气雨" class="headerlink" title="2007年2月14日  星期三  天气雨"></a>2007年2月14日  星期三  天气雨</h5><blockquote><p> 今天，我起床的时候，先穿起了衣服。再把地洒了点水，再扫地。扫完地就吃饭。吃了饭，我就去了外面玩。玩着玩着，我看见了有人在那里打<del>碑</del>牌。他们打的很开心。中午我和爸爸、表弟、弟弟，去了老屋那里砍柴，我就在屋子里玩，我们玩得特别开心。等我回家的时候，还拿了一根长长的柴，到了家里，我又去玩。这一回，我们就跟了几个人在玩木头、开花的和喵的，等我回家的时候就关门。可等回了家的时候，爸爸就问我表姐去了哪里，我就不说不知道，说了不知道，我就去了找表姐。找到了表姐，就去回家。到了楼那里，我就关门，这一天我就是这样过的。</p></blockquote>]]></content>
       
       
       <categories>
@@ -166,8 +128,6 @@
         <tags>
             
             <tag> 日记 </tag>
-            
-            <tag> 生活 </tag>
             
         </tags>
       
